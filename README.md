@@ -2,8 +2,6 @@
 
 This code estimate the importances of the features of a fastai tabular learner model using the [permutation method](https://christophm.github.io/interpretable-ml-book/feature-importance.html).
 
-Note that the permutation 
-
 While I made some modifications to it (adding functionalities and fixing bugs) most of the credits goes to [Miguel Mota Pinto](https://medium.com/@mp.music93/neural-networks-feature-importance-with-fastai-5c393cf65815) for the first prototype, [Zachary Mueller](https://forums.fast.ai/t/feature-importance-in-deep-learning/42026/21) for the improved version and [John Keefe](https://johnkeefe.net/detecting-feature-importance-in-fast-dot-ai-neural-networks) for the plotting function.
 
 ## Usage
